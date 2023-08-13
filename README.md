@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 <h1 align="center">Hey, I'm Lynn! 😄</h1>
 
-<h2> Here are some of my: </h2>
+<p> Here are some of my: <p>
 <p> 🧩 Apps </p>
 <p> 🌐 Projects </p> 
 <p> 🔭 Stats </p>
