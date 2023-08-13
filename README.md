@@ -3,12 +3,9 @@
 Hi, I'm Lynn! 😄
 
 Here are some of my:
-🧩 Apps
-🌐 Projects
-🔭 Stats
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p> 🧩 Apps </p>
+<p> 🌐 Projects </p> 
+<p> 🔭 Stats </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lynn-tao&show_icons=true&locale=en&layout=compact" alt="lynn-tao" /></p>
 
