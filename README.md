@@ -7,7 +7,7 @@
 <p> 🧩 Apps </p>
 <p> 🌐 Projects </p> 
 <p> 📚 Stats </p>
-<p> 🔭 Exploration </p>
+<p> 🔭 Explorations </p>
 
 <br>
 <p> Enjoy! ♡  </p>
