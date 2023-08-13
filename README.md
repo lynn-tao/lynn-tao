@@ -3,11 +3,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b9/b2/32/b9b232952b22a6dfcee8148f2650129b.gif">
 
-<p> Here's some of my: <p>
+<p> And here's some of my: <p>
 <p> 🧩 Apps </p>
 <p> 🌐 Projects </p> 
 <p> 📚 Stats </p>
 <p> 🔭 Exploration </p>
+
+Enjoy! ♡
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lynn-tao&show_icons=true&locale=en&layout=compact" alt="lynn-tao" /></p>
 
