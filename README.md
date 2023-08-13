@@ -1,6 +1,5 @@
 <!-- ### Hi there 👋 -->
 <h1 align="center">Hey, I'm Lynn! 😄</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lynn-tao&label=Profile%20views&color=0e75b6&style=flat" alt="lynn-tao" /> </p>
 
 <h2> Here are some of my: </h2>
 <p> 🧩 Apps </p>
