@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-<h1 align="center">Hey, I'm Lynn! 😄</h1>
+<h1 align="center">Hey, I'm Lynn 🙃 </h1>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/b9/b2/32/b9b232952b22a6dfcee8148f2650129b.gif">
 
