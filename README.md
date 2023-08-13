@@ -16,11 +16,6 @@ Here are some of my:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lynn-tao&show_icons=true&locale=en&layout=compact" alt="lynn-tao" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lynn-tao&show_icons=true&locale=en" alt="lynn-tao" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lynn-tao&" alt="lynn-tao" /></p>
-
-
 <!--
 **lynn-tao/lynn-tao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
